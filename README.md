@@ -8,14 +8,14 @@ AutoCatcher and helper for Pokecord !!
 
 # This doesn't work ?
 
-No, the source code here isn't working, as I edited it to do so, you can still read it if you want to make sure it contains no virus or malware.
-I won't stole your token, I'm just a student who needs money to continue his project.
-The bot will still be updated and have new features.
+- No, the source code here isn't working, as I edited it to do so, you can still read it if you want to make sure it contains no virus or malware.
+- I won't stole your token, I'm just a student who needs money to continue his project.
+- The bot will still be updated and have new features.
 
 # Contact
 
-You can contact me on discord my username is : Yewolf#6909.
-The current price of the bot is currently at 15€ and I only accept Paypal.
+- You can contact me on discord my username is : Yewolf#6909.
+- The current price of the bot is currently at 15€ and I only accept Paypal.
 
 # Screenshots
 
