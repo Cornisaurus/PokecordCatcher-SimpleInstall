@@ -14,7 +14,7 @@ The bot will still be updated and have new features.
 
 # Contact
 
-You can contact me on discord my username is : Yewolf#6909
+You can contact me on discord my username is : Yewolf#6909.
 The current price of the bot is currently at 15€ and I only accept Paypal.
 
 # Screenshots
