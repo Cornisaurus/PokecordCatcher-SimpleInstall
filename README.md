@@ -19,6 +19,10 @@ The current price of the bot is currently at 15€ and I only accept Paypal.
 
 # Screenshots
 
+![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen5.png)
+
+![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen6.png)
+
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen1.png)
 
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen2.png)
@@ -26,3 +30,4 @@ The current price of the bot is currently at 15€ and I only accept Paypal.
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen3.png)
 
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen4.png)
+
