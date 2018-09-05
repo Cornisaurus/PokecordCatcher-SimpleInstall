@@ -15,6 +15,7 @@ AutoCatcher and helper for Pokecord !!
 # Contact
 
 - You can contact me on discord my username is : Yewolf#6909.
+- Or you can join this server : https://discord.gg/rCCUEs5.
 - The current price of the bot is currently at 15€ and I only accept Paypal or Paysafecards.
 
 # Screenshots
