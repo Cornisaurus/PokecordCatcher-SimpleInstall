@@ -25,6 +25,10 @@ AutoCatcher and helper for Pokecord !!
 
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen6.png)
 
+![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen7.png)
+
+![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen8.png)
+
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen1.png)
 
 ![an image is here :c](https://raw.githubusercontent.com/smagghetristan/PokeCatcher-SimpleInstall/master/Screen2.png)
