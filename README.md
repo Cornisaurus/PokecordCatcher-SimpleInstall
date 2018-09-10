@@ -1,5 +1,6 @@
 # PokeCatcher-SimpleInstall
 AutoCatcher and helper for Pokecord !!
+The screenshot are from different version of the bot, if you want to see the current features, I suggest you to join the discord server.
 
 # Setting Up
 
