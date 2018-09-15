@@ -17,7 +17,7 @@ The screenshot are from different version of the bot, if you want to see the cur
 # Contact
 
 - You can contact me on discord my username is : Yewolf#6909.
-- Or you can join this server : https://discord.gg/rCCUEs5.
+- Or you can join this server : https://discord.gg/Q8NbBeQ.
 - The current price of the bot is currently at 15€ and I only accept Paypal or Paysafecards.
 
 # Screenshots
