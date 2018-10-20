@@ -9,7 +9,8 @@ The screenshot are from different version of the bot, if you want to see the cur
 
 # Free trial
 
-- You can post a ticket [here](https://bots.yewolf.ovh/) to apply for a free trial. Don't forget to add your Discord name + tag.
+- You can post a ticket [here](https://bots.yewolf.ovh/) to apply for a free trial. 
+- Add your Discord name + tag.
 
 # This doesn't work ?
 
