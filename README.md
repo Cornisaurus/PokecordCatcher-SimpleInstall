@@ -7,6 +7,10 @@ The screenshot are from different version of the bot, if you want to see the cur
 - You will only require the token of the account you want to run this bot on, it's better if it's an alt as selfbots violate ToS and you can get banned. To grab your token visit [this page](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
 - For further configuration you'll need to start the bot and access localhost:3000
 
+# Free trial
+
+- You can post a ticket [here](https://bots.yewolf.ovh/) to apply for a free trial. Don't forget to add your Discord name + tag.
+
 # This doesn't work ?
 
 - If you want a proof that it really works; you can watch [this](https://youtu.be/cyCYg2L2Du0)
